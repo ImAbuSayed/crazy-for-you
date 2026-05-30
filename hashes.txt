@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Crazy For You
+
+This log tracks the cryptographic history and versioning for the song **Crazy For You** (crazy-for-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T18:51:35.897312 | `v1` | `756a3d08942db654381248efa56f5f3c36479ca88af3d1aa17551e352042d158` | `6b530258be6fd7953911b2167ba4ebed403874e76e88ae7d372fb292acfe5116` | `2026-05-30_crazy-for-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
