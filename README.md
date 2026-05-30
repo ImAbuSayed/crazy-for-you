@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/crazy-for-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Crazy For You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/crazy-for-you/) |
+| **Get License** | [Obtain a Music License for Crazy For You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/crazy-for-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire every time you look my way
+> There's a midnight magic in the things you don't say
+> I've been holding back but I'm slipping past the line
+> Cause you're the only thought that is running through my mind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
